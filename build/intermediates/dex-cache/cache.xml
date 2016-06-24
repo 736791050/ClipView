@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/likuan/Desktop/ClipView/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="bfb52925e275a0494267f6906402e723e535b99b">
+        <dex dex="/Users/likuan/Desktop/ClipView/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_b0c13c73cd3df4ad46eb47a89a0bab40e988f515.jar" />
+    </item>
+
+</items>
