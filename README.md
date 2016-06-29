@@ -12,4 +12,4 @@ andrid拍照及截图(支持旋转)
 ![动态效果](https://github.com/736791050/ClipView/blob/master/steps/step4.jpg)
 
 详细介绍：
-博客待续。。。
+http://blog.csdn.net/likuan0214/article/details/51752162
